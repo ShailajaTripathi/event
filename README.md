@@ -1,4 +1,4 @@
-# Barj : Event Descriptive website
+# Braj: Event Descriptive website
 
 #### Introduction
 
